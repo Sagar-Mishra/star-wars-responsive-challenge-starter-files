@@ -16,3 +16,7 @@ header h1 {
 	border: 1px solid #e5e5e5;
 	margin-bottom: 20px;
 }
+
+.image{
+	width: 100%;
+}

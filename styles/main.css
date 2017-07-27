@@ -20,3 +20,16 @@ header h1 {
 .image{
 	width: 100%;
 }
+
+.card-description{
+	padding : 20px;
+}
+
+.card-description h3{
+	margin-top:0;
+	margin-bottom: 0;
+}
+
+.card-description p{
+	margin: 0.5em 0;
+}

@@ -1,0 +1,18 @@
+body {
+	font-family: "Roboto", sans-serif;
+	color: #252525;
+}
+header {
+	margin-bottom: 40px;
+	background-color: #eebb44;
+}
+
+header h1 {
+	margin-bottom:0;
+	line-height: 1;
+}
+
+.boxcard{
+	border: 1px solid #e5e5e5;
+	margin-bottom: 20px;
+}
